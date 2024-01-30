@@ -4,7 +4,7 @@ Imports System.Globalization
 
 Public Class Form_login
 
-    Public con As New SqlConnection("Data Source=LAPTOP-QDECFD8R\SQLEXPRESS01;Initial Catalog=expense;Integrated Security=True;Encrypt=False")
+    Public con As New SqlConnection("Replace with your SQL connection string")
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
