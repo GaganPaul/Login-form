@@ -1,7 +1,7 @@
 ﻿Imports System.Data
 Imports System.Data.SqlClient
 Public Class Form_register
-    Public con As New SqlConnection("Data Source=LAPTOP-QDECFD8R\SQLEXPRESS01;Initial Catalog=expense;Integrated Security=True;Encrypt=False")
+    Public con As New SqlConnection("Replace with your SQL connection string")
     Private Sub Register_btn_Click(sender As Object, e As EventArgs) Handles Register_btn.Click
         PerformRegistration()
     End Sub
