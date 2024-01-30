@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

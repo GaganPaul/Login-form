@@ -1,0 +1,27 @@
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense_Tracker.Form_login.resources
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.vbproj.GenerateResource.cache
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.AssemblyInfoInputs.cache
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.AssemblyInfo.vb
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.vbproj.CoreCompileInputs.cache
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense_Tracker.Form1.resources
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\Expense Tracker.exe
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\Expense Tracker.deps.json
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\Expense Tracker.runtimeconfig.json
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\Expense Tracker.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\Expense Tracker.pdb
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\refint\Expense Tracker.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.pdb
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.genruntimeconfig.cache
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\ref\Expense Tracker.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.vbproj.AssemblyReference.cache
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense Tracker.vbproj.CopyComplete
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense_Tracker.Form_register.resources
+C:\Users\Gagan\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net8.0-windows\Expense_Tracker.Mainform.resources
